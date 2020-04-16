@@ -1,5 +1,5 @@
 # Guide for Grid Css
-
+It is a guide for grid css. The relevant css code is inside the index.html file of each folder.
 # 00 - grid template
 <img src="00-base/img.jpg" weight="900">
 # 01 - grid template
@@ -18,3 +18,5 @@
 <img src="07-Project Sample/img.jpg" weight="900">
 # 08 - Project using template areas
 <img src="08-Project using template areas/img.jpg" weight="900">
+# 09 - Rows with same size
+<img src="09-rows same size/img.jpg" weight="900">
